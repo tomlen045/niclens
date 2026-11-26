@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*-article*.html
+*_article.html
+article/
+demo_run*.txt
+live*.json
+*.basline.json
+niclens-baseline*.json
+.DS_Store
